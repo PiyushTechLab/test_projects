@@ -12,6 +12,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           INSTAWP_TOKEN: ${{secrets.INSTAWP_TOKEN}}
-          INSTAWP_TEMPLATE_SLUG: storagetest
+          INSTAWP_TEMPLATE_SLUG: demo1908
           REPO_ID: 664
           INSTAWP_ACTION: create-site-template
